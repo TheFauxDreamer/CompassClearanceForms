@@ -2,6 +2,7 @@
 Missing the Clearance Forms from Integris?
 
 <img width="879" height="714" alt="Image" src="https://github.com/user-attachments/assets/041e89d7-2b2f-4e7b-90d9-de70856aadb0" />
+<img width="912" height="1292" alt="Image" src="https://github.com/user-attachments/assets/4bd39d0c-616e-4781-975a-78bbf81ce66a" />
 
 ## Features:
 - Smart School Info. It pulls the school name & logo directly from Compass itself!
